@@ -1,0 +1,1 @@
+mon,tue,wed,thurs,fri,sat,sunday
